@@ -1,0 +1,22 @@
+.vscode/
+**/.cookie
+**/.env
+
+# Python
+**/*.pyc
+**/__pycache__
+
+
+# Cpp
+**/*.cpp
+**/*.out
+
+
+# Rust
+**/Cargo.lock
+**/target/
+
+
+# DLL
+**/*.so
+**/*.dll
