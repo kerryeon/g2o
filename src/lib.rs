@@ -1,5 +1,5 @@
 mod num;
-mod slam3d;
+mod solver;
 
 pub use num::*;
-pub use slam3d::SE3Quat;
+pub use solver::*;
